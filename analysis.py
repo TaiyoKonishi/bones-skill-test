@@ -55,22 +55,3 @@ def compute_filler_ratio(text):
     filler_count = sum(len(re.findall(pattern, text)) for pattern in filler_words)
 
     return filler_count / total_words if total_words > 0 else 0
-
-# Call function and test outcome
-text = load_transcript()
-
-# Test sentiment analyse result outcome
-'''
-for sentence in text:
-    label, score = compute_sentiment(sentence)
-    print(f"{sentence}\n→ Sentiment: {label} (Score: {score:.2f})\n")
-'''
-
-# Test filler word ratio outcome by first sentence
-if isinstance(text, list) and text:
-    sample_text = text[0]
-    ratio = compute_filler_ratio(sample_text)
-    print(f"Text: {sample_text}")
-    print(f"Filler Ratio: {ratio:.2f}")
-else:
-    print("Transcript format is not a list or is empty.")
