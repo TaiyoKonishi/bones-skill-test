@@ -1,0 +1,17 @@
+[
+    "Speaker A: Baseball these days is, like, totally different from what it used to be.",
+    "Speaker B: Yeah, I know. Um, the way they use data analytics now is kind of insane.",
+    "Speaker A: Right? They even use AI to study pitchers’ habits, which is, you know, a lot of pressure.",
+    "Speaker B: True, but I think the defensive shifts are kind of cool. They're actually working.",
+    "Speaker A: Maybe, but from a fan’s perspective, the game feels a bit slow and over-calculated.",
+    "Speaker B: I get that. Sometimes it feels like the game’s natural rhythm is gone.",
+    "Speaker A: Still, it’s exciting to see so many young players coming up. Like, that rookie is amazing.",
+    "Speaker B: Oh yeah! He’s got real talent, both hitting and fielding. Super fun to watch.",
+    "Speaker A: I used to love the gritty old-school plays, but the clean style today isn't bad either.",
+    "Speaker B: It’s just the way the game evolves, I guess. But I miss the fire and energy sometimes.",
+    "Speaker A: You know, benches used to be way more vocal. Now it's kind of... too quiet?",
+    "Speaker B: Yeah, that energy really pumps up the fans. I kind of miss that vibe.",
+    "Speaker A: I mean, sometimes it's just... you know, baseball is baseball.",
+    "Speaker A: But all in all, I still think baseball is a great sport, even now.",
+    "Speaker B: Definitely. It’s changing, but it’s still full of passion and strategy."
+]
